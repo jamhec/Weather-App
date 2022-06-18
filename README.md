@@ -10,11 +10,6 @@ Technologies Used
 - JUnit / Mockito - 3.4.5
 - Android - 4.4-12.0
 
-To-Do:
-
-- Add Dagger/Hilt Patterns
-- Increase Unit Test Code Coverage
-
 
 
 Usage
@@ -22,8 +17,8 @@ Usage
 
 
 > Once you've installed the application, simply install it on a physical or emulated device to see it perform. For references on what it will look like
-> once launched, please see the link below:
-> https://www.figma.com/file/KzIrYMd4Uyv5UDoW1RoVpB/https%3A%2F%2Fgithub.com%2Fdevoncowherd%2Fx_-_a_xii_Weather.git?node-id=0%3A1
+> once launched, please see below:
+> <img src = "https://github.com/jamhec/Weather-App/blob/main/Screenshot/image.png" width=1200 height=450>
 
 Contributors
 -
