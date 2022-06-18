@@ -18,7 +18,7 @@ Usage
 
 > Once you've installed the application, simply install it on a physical or emulated device to see it perform. For references on what it will look like
 > once launched, please see below:
-> <img src = "https://github.com/jamhec/Weather-App/blob/main/Screenshot/image.png" width=1200 height=450>
+ <img src = "https://github.com/jamhec/Weather-App/blob/main/Screenshot/image.png" width=1200 height=450>
 
 Contributors
 -
